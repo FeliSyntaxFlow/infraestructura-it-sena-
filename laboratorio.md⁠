@@ -1,0 +1,14 @@
+# Detalle Técnico: Infraestructura y Servidores
+
+### ⚙️ Implementación
+* **Servidor:** Windows Server configurado en VirtualBox.
+* **Red:** Uso de Adaptador Puente (Bridge) para comunicación Host-Guest.
+* **Acceso:** Gestión mediante protocolo RDP.
+
+### 🛠️ Solución de Problemas (Troubleshooting)
+* Configuración de reglas en el Firewall para el puerto 3389.
+* Resolución de errores de autenticación de red (NLA).
+* Pruebas de conectividad y latencia exitosas.
+
+### 🎯 Objetivo Profesional
+Aplicar estos conocimientos de infraestructura en entornos reales, con miras a especializarme en **Cloud Security** y protección de servidores.
